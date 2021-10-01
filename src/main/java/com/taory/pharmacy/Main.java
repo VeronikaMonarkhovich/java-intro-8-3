@@ -25,5 +25,4 @@ public class Main {
         day1.printCountPrescriptionDrugs();
         day2.printCountPrescriptionDrugs();
     }
-
 }
