@@ -21,5 +21,3 @@ public class LaborDay {
         System.out.println(this.date + " : sold count of prescription drug: " + countPrescriptionDay);
     }
 }
-
-
